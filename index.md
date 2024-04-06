@@ -50,4 +50,4 @@ Check out my GitHub profile: [Your GitHub Profile](https://github.com/jrivas112)
    - Displays a welcome message to the customer's when they walk into the service waiting area.
 
 ### Image of welcome massage from project #3 (Relative Links)
-[IMAGE](images/welcomemessage.png)
+[Welcome Message](images/welcomemessage.png)
