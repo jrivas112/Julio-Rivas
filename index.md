@@ -32,7 +32,7 @@ Link to another Markdown file: [README](README.md)
 
 ### Pictures
 Here's a picture of a cat:
-![Cat](https://placekitten.com/200/300)
+![Cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zooplus.co.uk%2Fmagazine%2Fcat%2Fkitten%2Fhow-to-monitor-your-kittens-weight&psig=AOvVaw1BOwY1u6TCsJbKUpirwHYR&ust=1712514426721000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjn-MKbroUDFQAAAAAdAAAAABAJ)
 
 ### Lists
 #### Ordered List
@@ -44,3 +44,8 @@ Here's a picture of a cat:
 - Item A
 - Item B
 - Item C
+
+### Task Lists
+- [x] Learn Markdown
+- [x] Create User Page
+- [x] Publish User Page
