@@ -9,7 +9,7 @@ Hello there! I'm Julio Rivas, a passionate programmer and tech enthusiast. I lov
 - 📚 I'm constantly learning and improving my skills to stay up-to-date with the ever-evolving tech landscape.
 
 ### Favorite Quote
-> "The only way to do great work is to love what you do." - Steve Jobs
+> "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. ― Rick Cook" - Steve Jobs
 
 ### Quoting Code
 ```python
